@@ -2,11 +2,11 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Run and deploy your browser
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/b7ed30b9-5f3f-42b4-8878-f82aec9e6373
+View your app in  browser:
 
 ## Run Locally
 
