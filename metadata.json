@@ -1,0 +1,6 @@
+{
+  "name": "TRAX MD",
+  "description": "TRAX MD WhatsApp Multi-Device Bot transformation studio, verification console, and downloadable project builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
